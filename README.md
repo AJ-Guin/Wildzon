@@ -1,2 +1,2 @@
-# wildzon
+# Wildzon
 Ecommerce website 
