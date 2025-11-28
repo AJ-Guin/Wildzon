@@ -8,6 +8,7 @@ export default {
     extend: {
       colors: {
         "brand-colo": "#490b57",
+        "admin-bg":"#170d27"
       },
     },
   },
